@@ -83,6 +83,6 @@ Time Taken:
     The assignment was completed in total 10 hours. Given that I have given few hours per day.
 
 Challenges faced:
-  1. Tried running the unit tests via terminal but got stuck. Here is what I have tried:
+  1. Here is what I have tried:
       a. export DJANGO_SETTINGS_MODULE=BankAPI.settings  
       b.  python -m unittest discover
